@@ -1,4 +1,4 @@
-Algoritmo EjemploPara
+Algoritmo Ejemplo
 	
 	Definir i Como Entero
 	
